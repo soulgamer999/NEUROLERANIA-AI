@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="1200" height="475" alt="MAGMA CORP" src="()
- />
+
 
   <h1>BUILD WITH MAGMA CORP</h2>
 
